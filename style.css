@@ -2,3 +2,13 @@
     font-size: 36px;
     color: red;
 }
+
+.links,
+.headlinehome {
+    text-align: center;
+}
+
+.imagehome {
+    height: auto;
+    width: 100%;
+}
