@@ -1,6 +1,7 @@
 .links {
     font-size: 36px;
     color: red;
+    background-color: aliceblue;
 }
 
 .links,
@@ -9,8 +10,15 @@
 }
 
 .imagehome {
-    height: auto;
+    height: 680px;
     width: 100%;
+    background-color: aliceblue;
+}
+
+.headlinehome {
+    font-size: 50px;
+    font-weight: bold;
+    color: red;
 }
 
 body {
