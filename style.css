@@ -3,24 +3,23 @@
     color: red;
     background-color: aliceblue;
 }
-
 .links,
 .headlinehome {
     text-align: center;
 }
-
 .imagehome {
     height: 680px;
     width: 100%;
     background-color: aliceblue;
 }
-
 .headlinehome {
     font-size: 50px;
     font-weight: bold;
     color: red;
 }
-
 body {
     font-family: monospace, sans-serif;
 }
+
+
+

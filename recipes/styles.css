@@ -1,0 +1,20 @@
+.headlinepizza {
+    font-size: 50px;
+    font-weight: bold;
+    color: red;
+    text-align: center;
+}
+
+.pizzaimage {
+    height: 680px;
+    width: 100%;
+    background-color: aliceblue;
+}
+
+body {
+    text-align: center;
+}
+
+.description {
+    color: rgb(129, 187, 43);
+}
