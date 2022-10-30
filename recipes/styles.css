@@ -1,11 +1,11 @@
-.headlinepizza {
+.headlinepage {
     font-size: 50px;
     font-weight: bold;
     color: red;
     text-align: center;
 }
 
-.pizzaimage {
+.pageimage {
     height: 680px;
     width: 100%;
     background-color: aliceblue;
